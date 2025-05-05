@@ -4,7 +4,7 @@
 -- Kelas 	: A
 
 -- menggunakan database
-USE pti_mart;
+USE pti_smart;
 
 --- Bagian Praktek ---
 --- Praktek 1
